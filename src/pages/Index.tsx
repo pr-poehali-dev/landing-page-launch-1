@@ -61,7 +61,7 @@ const Index = () => {
               <Icon name="Zap" size={24} className="text-white" />
             </div>
             <span className="font-heading text-2xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              LaserArt
+              АМД Лазер
             </span>
           </div>
           <Button 
@@ -314,7 +314,7 @@ const Index = () => {
                 <Icon name="Zap" size={24} className="text-white" />
               </div>
               <span className="font-heading text-2xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                LaserArt
+                АМД Лазер
               </span>
             </div>
             
